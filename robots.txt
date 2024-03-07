@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://inryatt.github.io/inrylog/sitemap.xml
